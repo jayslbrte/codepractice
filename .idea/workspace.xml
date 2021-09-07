@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfd40672-31f7-40f9-a251-1c8575aaddba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dfd40672-31f7-40f9-a251-1c8575aaddba" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,17 +43,35 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.insertionSort">
+  <component name="RunManager" selected="Application.OddbyHackerank">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OddEven" />
+      <module name="OddAndEven.test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddbyHackerank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OddbyHackerank" />
+      <module name="OddAndEven.test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -64,24 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array" />
-      <module name="OddAndEven.test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="blastOff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blastOff" />
-      <module name="OddAndEven.test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fibonacci" />
+    <configuration name="arrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayList" />
       <module name="OddAndEven.test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddbyHackerank" />
+        <item itemvalue="Application.OddEven" />
+        <item itemvalue="Application.arrayList" />
         <item itemvalue="Application.insertionSort" />
         <item itemvalue="Application.hashMap" />
-        <item itemvalue="Application.array" />
-        <item itemvalue="Application.fibonacci" />
-        <item itemvalue="Application.blastOff" />
       </list>
     </recent_temporary>
   </component>
@@ -153,26 +152,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1873" height="236" key="GridCell.Tab.0.bottom" timestamp="1630825223523">
+    <state width="1873" height="340" key="GridCell.Tab.0.bottom" timestamp="1630987703114">
       <screen x="0" y="25" width="2560" height="1367" />
     </state>
     <state width="1358" height="148" key="GridCell.Tab.0.bottom/0.25.1440.838@0.25.1440.838" timestamp="1630812987520" />
-    <state width="1873" height="236" key="GridCell.Tab.0.bottom/0.25.2560.1367@0.25.2560.1367" timestamp="1630825223523" />
-    <state width="1873" height="236" key="GridCell.Tab.0.center" timestamp="1630825223519">
+    <state width="1873" height="340" key="GridCell.Tab.0.bottom/0.25.2560.1367@0.25.2560.1367" timestamp="1630987703114" />
+    <state width="1873" height="340" key="GridCell.Tab.0.center" timestamp="1630987703113">
       <screen x="0" y="25" width="2560" height="1367" />
     </state>
     <state width="1358" height="148" key="GridCell.Tab.0.center/0.25.1440.838@0.25.1440.838" timestamp="1630812987519" />
-    <state width="1873" height="236" key="GridCell.Tab.0.center/0.25.2560.1367@0.25.2560.1367" timestamp="1630825223519" />
-    <state width="1873" height="236" key="GridCell.Tab.0.left" timestamp="1630825223510">
+    <state width="1873" height="340" key="GridCell.Tab.0.center/0.25.2560.1367@0.25.2560.1367" timestamp="1630987703113" />
+    <state width="1873" height="340" key="GridCell.Tab.0.left" timestamp="1630987703113">
       <screen x="0" y="25" width="2560" height="1367" />
     </state>
     <state width="1358" height="148" key="GridCell.Tab.0.left/0.25.1440.838@0.25.1440.838" timestamp="1630812987518" />
-    <state width="1873" height="236" key="GridCell.Tab.0.left/0.25.2560.1367@0.25.2560.1367" timestamp="1630825223510" />
-    <state width="1873" height="236" key="GridCell.Tab.0.right" timestamp="1630825223522">
+    <state width="1873" height="340" key="GridCell.Tab.0.left/0.25.2560.1367@0.25.2560.1367" timestamp="1630987703113" />
+    <state width="1873" height="340" key="GridCell.Tab.0.right" timestamp="1630987703113">
       <screen x="0" y="25" width="2560" height="1367" />
     </state>
     <state width="1358" height="148" key="GridCell.Tab.0.right/0.25.1440.838@0.25.1440.838" timestamp="1630812987519" />
-    <state width="1873" height="236" key="GridCell.Tab.0.right/0.25.2560.1367@0.25.2560.1367" timestamp="1630825223522" />
+    <state width="1873" height="340" key="GridCell.Tab.0.right/0.25.2560.1367@0.25.2560.1367" timestamp="1630987703113" />
     <state width="1873" height="236" key="GridCell.Tab.1.bottom" timestamp="1630825223598">
       <screen x="0" y="25" width="2560" height="1367" />
     </state>
@@ -193,6 +192,10 @@
       <screen x="0" y="25" width="2560" height="1367" />
     </state>
     <state x="950" y="393" key="SettingsEditor/0.25.2560.1367@0.25.2560.1367" timestamp="1630979116747" />
+    <state x="927" y="419" key="Vcs.Push.Dialog.v2" timestamp="1630987721747">
+      <screen x="0" y="25" width="2560" height="1367" />
+    </state>
+    <state x="927" y="419" key="Vcs.Push.Dialog.v2/0.25.2560.1367@0.25.2560.1367" timestamp="1630987721747" />
     <state x="820" y="471" key="com.intellij.ide.util.TipDialog" timestamp="1630977904263">
       <screen x="0" y="25" width="2560" height="1367" />
     </state>

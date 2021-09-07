@@ -18,7 +18,7 @@ import java.util.*;
      */
 
 public class OddEven {
-
+//sample
         public  static void main (String[] args) {
             List<Integer> oddNumbers;
              List list = oddNumbers(3, 10);
